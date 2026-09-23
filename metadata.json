@@ -1,0 +1,8 @@
+{
+  "name": "LifeOS AI",
+  "description": "Your Personal AI Operating System for Career, Learning & Growth. Analyze profile, identify skill gaps, generate custom projects and roadmaps, and track career readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
